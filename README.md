@@ -9,7 +9,7 @@ issue ...
 
 ### Lein
 
-[![Clojars Project](http://clojars.org/f0bec0d/yaml/latest-version.svg)](http://clojars.org/f0bec0d/yaml)
+![](https://clojars.org/f0bec0d/yaml/latest-version.svg)
 
 ## Usage
 
