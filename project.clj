@@ -1,6 +1,6 @@
-(defproject io.forward/yaml "1.0.9"
+(defproject f0beco0d/yaml "1.0.9"
   :description "A YAML library for Clojure"
-  :url "http://github.com/owainlewis/yaml"
+  :url "https://github.com/alexei-matveev/yaml"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.6.0"]

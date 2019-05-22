@@ -1,14 +1,15 @@
 # YAML
 
-[![wercker status](https://app.wercker.com/status/d86182149da45799012e55c1d3b3eb72/s/master "wercker status")](https://app.wercker.com/project/byKey/d86182149da45799012e55c1d3b3eb72)
-
-An updated YAML library for Clojure based on Snake YAML and heavily inspired by clj-yaml
+An updated  YAML library for Clojure  based on Snake YAML  and heavily
+inspired by  clj-yaml.  A Fork to  to merely publish an  updated build
+with a  new group  ID --- because  of the The  OpenJDK 11  ordered set
+issue ...
 
 ## Install
 
 ### Lein
 
-[![Clojars Project](http://clojars.org/io.forward/yaml/latest-version.svg)](http://clojars.org/io.forward/yaml)
+[![Clojars Project](http://clojars.org/f0bec0d/yaml/latest-version.svg)](http://clojars.org/f0bec0d/yaml)
 
 ## Usage
 
