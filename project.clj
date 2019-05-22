@@ -1,4 +1,4 @@
-(defproject f0beco0d/yaml "1.0.9"
+(defproject f0bec0d/yaml "1.0.9"
   :description "A YAML library for Clojure"
   :url "https://github.com/alexei-matveev/yaml"
   :license {:name "Eclipse Public License"
